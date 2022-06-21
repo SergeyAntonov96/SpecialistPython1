@@ -15,7 +15,12 @@
 ### Решение задачи
 
 ```python
-# TODO: you code here...
+number = int(input("Число"))
+
+if number <= 999:
+    print("yes")
+else:
+    print("No")
 ```
 
 ---
